@@ -21,3 +21,13 @@ Activity 5
 ![](Images/commands.png)
 
 ![](Images/logs.png)
+
+Activity 6
+
+https://github.com/komila123/ECE444-F2022-EP.git 
+
+Activity 7
+
+![](Images/titlechange1.png)
+![](Images/titlechange2.png)
+
