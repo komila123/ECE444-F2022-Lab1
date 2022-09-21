@@ -31,3 +31,8 @@ Activity 7
 ![](Images/titlechange1.png)
 ![](Images/titlechange2.png)
 
+Activity 8
+
+![](Images/tabadd.png)
+![](Images/tabwithname.png)
+
